@@ -11,7 +11,6 @@ class Solution {
         
         int maxStreak = 0;
 
-        // Iterate through the SET (or array) to check each number
         for (int num : numSet) {
              
              if (!numSet.contains(num - 1)) {
