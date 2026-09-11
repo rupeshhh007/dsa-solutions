@@ -1,6 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int totalNumbers(int[] digits) {
         int n = digits.length;
