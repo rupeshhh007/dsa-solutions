@@ -20,6 +20,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -71,4 +72,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
