@@ -15,6 +15,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/rupeshhh007/dsa-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Array
@@ -105,4 +106,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
