@@ -33,7 +33,7 @@ class Solution {
                 );
             }
 
-            // palindrome of exactly length k + 1
+            // palindrome of exactly length k + 1, optimized to a better solution that brute force checking of the string here
             if (i >= k + 1 && pal[i - k - 1][i - 1]) {
 
                 dp[i] = Math.max(
