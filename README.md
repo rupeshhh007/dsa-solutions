@@ -11,6 +11,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -18,6 +19,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/rupeshhh007/dsa-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Array
@@ -114,4 +116,12 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
