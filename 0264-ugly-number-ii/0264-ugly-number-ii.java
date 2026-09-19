@@ -20,12 +20,6 @@ class Solution {
             if (nextUgly == next3) p3++;
             if (nextUgly == next5) p5++;
         }
-        
-        for (int a : dp) {
-            System.out.print(a + ",");
-        }
-        System.out.println();
-        
         return dp.get(n - 1);
     }
 }
