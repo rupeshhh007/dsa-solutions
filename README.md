@@ -23,6 +23,7 @@ these are my own solutions... so read them at ur own risk :p
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0829-consecutive-numbers-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rupeshhh007/dsa-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -84,6 +85,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
