@@ -26,6 +26,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
@@ -80,6 +81,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -118,6 +120,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rupeshhh007/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/rupeshhh007/dsa-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Design
@@ -171,4 +174,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rupeshhh007/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
