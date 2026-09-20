@@ -8,6 +8,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
