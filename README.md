@@ -194,4 +194,5 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/rupeshhh007/dsa-solutions/tree/main/0176-second-highest-salary/) | Medium |
+| [0182-duplicate-emails](https://github.com/rupeshhh007/dsa-solutions/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
