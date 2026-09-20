@@ -26,6 +26,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/rupeshhh007/dsa-solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
