@@ -29,6 +29,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0263-ugly-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0829-consecutive-numbers-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0836-rectangle-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rupeshhh007/dsa-solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -41,6 +42,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshhh007/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
@@ -85,6 +87,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -162,6 +165,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -181,4 +185,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rupeshhh007/dsa-solutions/tree/main/0202-happy-number/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
