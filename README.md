@@ -15,6 +15,7 @@ these are my own solutions... so read them at ur own risk :p
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rupeshhh007/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshhh007/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -41,6 +42,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshhh007/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -121,6 +123,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
