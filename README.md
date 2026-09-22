@@ -52,6 +52,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -85,6 +86,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rupeshhh007/dsa-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -99,6 +101,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -124,12 +127,14 @@ these are my own solutions... so read them at ur own risk :p
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/rupeshhh007/dsa-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -204,4 +209,16 @@ these are my own solutions... so read them at ur own risk :p
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/rupeshhh007/dsa-solutions/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/rupeshhh007/dsa-solutions/tree/main/0182-duplicate-emails/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 <!---LeetCode Topics End-->
