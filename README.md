@@ -63,6 +63,7 @@ these are my own solutions... so read them at ur own risk :p
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +196,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,13 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 <!---LeetCode Topics End-->
