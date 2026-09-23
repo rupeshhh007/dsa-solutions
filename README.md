@@ -59,6 +59,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -110,6 +111,7 @@ these are my own solutions... so read them at ur own risk :p
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -190,11 +193,13 @@ these are my own solutions... so read them at ur own risk :p
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
