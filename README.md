@@ -8,6 +8,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0005-longest-palindromic-substring](https://github.com/rupeshhh007/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0068-text-justification](https://github.com/rupeshhh007/dsa-solutions/tree/main/0068-text-justification/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -164,6 +165,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Counting
@@ -171,6 +173,7 @@ these are my own solutions... so read them at ur own risk :p
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
