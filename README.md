@@ -61,6 +61,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -85,6 +86,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/rupeshhh007/dsa-solutions/tree/main/0068-text-justification/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Tree
@@ -165,6 +167,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0264-ugly-number-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/rupeshhh007/dsa-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,4 +261,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
