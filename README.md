@@ -41,6 +41,7 @@ these are my own solutions... so read them at ur own risk :p
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rupeshhh007/dsa-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/rupeshhh007/dsa-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Array
@@ -66,6 +67,7 @@ these are my own solutions... so read them at ur own risk :p
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rupeshhh007/dsa-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
