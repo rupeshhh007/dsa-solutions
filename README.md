@@ -56,6 +56,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -92,6 +93,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rupeshhh007/dsa-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -226,10 +229,12 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,4 +252,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 <!---LeetCode Topics End-->
