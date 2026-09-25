@@ -8,6 +8,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0005-longest-palindromic-substring](https://github.com/rupeshhh007/dsa-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0068-text-justification](https://github.com/rupeshhh007/dsa-solutions/tree/main/0068-text-justification/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -77,6 +78,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/rupeshhh007/dsa-solutions/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -142,6 +145,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0295-find-median-from-data-stream](https://github.com/rupeshhh007/dsa-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
@@ -235,6 +239,7 @@ these are my own solutions... so read them at ur own risk :p
 | ------- | ------- |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0924-minimize-malware-spread](https://github.com/rupeshhh007/dsa-solutions/tree/main/0924-minimize-malware-spread/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,4 +270,8 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
