@@ -26,6 +26,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0940-distinct-subsequences-ii](https://github.com/rupeshhh007/dsa-solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/rupeshhh007/dsa-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rupeshhh007/dsa-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -67,6 +68,7 @@ these are my own solutions... so read them at ur own risk :p
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rupeshhh007/dsa-solutions/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rupeshhh007/dsa-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -159,6 +161,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0694-number-of-distinct-islands](https://github.com/rupeshhh007/dsa-solutions/tree/main/0694-number-of-distinct-islands/) | Medium |
 | [0835-image-overlap](https://github.com/rupeshhh007/dsa-solutions/tree/main/0835-image-overlap/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rupeshhh007/dsa-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +286,5 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rupeshhh007/dsa-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rupeshhh007/dsa-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
