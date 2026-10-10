@@ -53,6 +53,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupeshhh007/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/rupeshhh007/dsa-solutions/tree/main/0068-text-justification/) | Hard |
@@ -146,6 +147,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupeshhh007/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rupeshhh007/dsa-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -227,6 +229,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rupeshhh007/dsa-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/rupeshhh007/dsa-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/4011-count-subarrays-with-even-odd-ratio-i/) | Medium |
 ## Manacher
