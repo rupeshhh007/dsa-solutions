@@ -1,35 +1,28 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
         int start = 0;
         int end = 0;
-        
-        for (int i = 0; i < s.length(); i++) {
-            // Case 1: Odd length palindrome (centered at i, e.g., "aba")
-            int len1 = expandAroundCenter(s, i, i);
-            
-            // Case 2: Even length palindrome (centered between i and i+1, e.g., "abba")
-            int len2 = expandAroundCenter(s, i, i + 1);
-            
-            int maxLen = Math.max(len1, len2);
-            
-            // If we found a longer palindrome, update our tracking indices
-            if (maxLen > end - start) {
-                start = i - (maxLen - 1) / 2;
-                end = i + maxLen / 2;
+        for(int i = 0 ; i<s.length();i++){
+            int l1 =  expandAroundCenter(s,i,i);
+            int l2 = expandAroundCenter(s,i,i+1);
+
+            int maxL = Math.max(l1,l2);
+            int left = i - (maxL - 1) / 2;
+            int right = i + maxL / 2;
+
+            if(maxL > end-start+1){
+                start = left;
+                end = right;
             }
         }
-        
-        return s.substring(start, end + 1);
+        return s.substring(start,end+1);
     }
-    
-    private int expandAroundCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+
+    public int expandAroundCenter(String s, int left,int right){
+        while(left>=0 && right<s.length()&&s.charAt(left)==s.charAt(right)){
             left--;
             right++;
         }
-        // Returns the length of the valid palindrome found
-        return right - left - 1;
+        return right-left-1;
     }
 }
