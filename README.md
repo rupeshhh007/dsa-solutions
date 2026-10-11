@@ -74,6 +74,7 @@ these are my own solutions... so read them at ur own risk :p
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rupeshhh007/dsa-solutions/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rupeshhh007/dsa-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/rupeshhh007/dsa-solutions/tree/main/2289-steps-to-make-array-non-decreasing/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rupeshhh007/dsa-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rupeshhh007/dsa-solutions/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/rupeshhh007/dsa-solutions/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -144,6 +145,7 @@ these are my own solutions... so read them at ur own risk :p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0829-consecutive-numbers-sum/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rupeshhh007/dsa-solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/rupeshhh007/dsa-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
