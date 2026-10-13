@@ -59,6 +59,7 @@ these are my own solutions... so read them at ur own risk :p
 | [0064-minimum-path-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/rupeshhh007/dsa-solutions/tree/main/0068-text-justification/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshhh007/dsa-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0134-gas-station](https://github.com/rupeshhh007/dsa-solutions/tree/main/0134-gas-station/) | Medium |
 | [0217-contains-duplicate](https://github.com/rupeshhh007/dsa-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/rupeshhh007/dsa-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshhh007/dsa-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -196,6 +197,7 @@ these are my own solutions... so read them at ur own risk :p
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0134-gas-station](https://github.com/rupeshhh007/dsa-solutions/tree/main/0134-gas-station/) | Medium |
 | [0621-task-scheduler](https://github.com/rupeshhh007/dsa-solutions/tree/main/0621-task-scheduler/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rupeshhh007/dsa-solutions/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
